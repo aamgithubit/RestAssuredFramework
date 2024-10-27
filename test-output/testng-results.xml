@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-14T17:48:28 IST" name="Default suite" finished-at="2024-10-14T17:48:54 IST" duration-ms="25645">
+    <groups>
+    </groups>
+    <test started-at="2024-10-14T17:48:28 IST" name="Default test" finished-at="2024-10-14T17:48:54 IST" duration-ms="25645">
+      <class name="api.testcases.TC_02_DataDrivenTesting">
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:33 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:42 IST" duration-ms="9842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[201.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yash]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[yash@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:42 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:45 IST" duration-ms="2069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[202.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ram@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:45 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:47 IST" duration-ms="1977" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[203.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sham]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sham@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:47 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:48 IST" duration-ms="1858" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[204.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akle]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fdkg@241]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:48 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:50 IST" duration-ms="1929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[205.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jfcbe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[stew464563@34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:50 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:52 IST" duration-ms="1737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[206.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdiewd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ai@34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testPostUser(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:api.testcases.TC_02_DataDrivenTesting@58695725]" started-at="2024-10-14T17:48:52 IST" name="testPostUser" data-provider="testlogindata" finished-at="2024-10-14T17:48:54 IST" duration-ms="1721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[207.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[djewd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[uirhwe@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+      </class> <!-- api.testcases.TC_02_DataDrivenTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
