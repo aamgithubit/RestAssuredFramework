@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="api.endpoints.routes">
+      <class name="api.testcases.TC_01">
         <methods>
-          <include name="test"/>
+          <include name="getuser"/>
         </methods>
-      </class> <!-- api.endpoints.routes -->
+      </class> <!-- api.testcases.TC_01 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

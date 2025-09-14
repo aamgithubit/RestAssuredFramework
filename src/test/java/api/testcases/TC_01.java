@@ -1,4 +1,5 @@
 package api.testcases;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.github.javafaker.Faker;
@@ -31,7 +32,7 @@ public class TC_01 {
 		System.out.println(userpayload.getUsername());
 
 	}
-
+/*
 	@Test(priority=1)
 	public void testpostuser() {
 		System.out.println("<<<<<<<<<,create user body is>>>>>>");
@@ -41,7 +42,8 @@ public class TC_01 {
 		System.out.println(res.getStatusCode());
 
 	}
-	/*
+	*/
+	
 	@Test(priority=2)
 	public void getuser() {
 		System.out.println("<<<<<<<<<,get body is>>>>>>");
@@ -50,6 +52,7 @@ public class TC_01 {
 		System.out.println(res.getStatusCode());
 		Assert.assertEquals(res.getStatusCode(),200);
 	}
+	/*
 	@Test(priority=3)
 	public void updateuser() {
 		System.out.println("<<<<<<<<<,after update body is>>>>>>");
