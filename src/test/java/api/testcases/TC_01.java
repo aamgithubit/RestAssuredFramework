@@ -33,7 +33,7 @@ public class TC_01 {
 
 	}
 /*
-	@Test(priority=1)
+	@Test(priority=2)
 	public void testpostuser() {
 		System.out.println("<<<<<<<<<,create user body is>>>>>>");
 
@@ -44,7 +44,7 @@ public class TC_01 {
 	}
 	*/
 	
-	@Test(priority=2)
+	@Test(priority=1)
 	public void getuser() {
 		System.out.println("<<<<<<<<<,get body is>>>>>>");
 
